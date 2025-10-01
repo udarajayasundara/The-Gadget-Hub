@@ -1,0 +1,48 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+<div class="text-center mt-5">
+    <h1>Welcome to The Gadget Hub!</h1>
+    <p class="lead">Discover the latest gadgets, reviews, and tech news.</p>
+    <a class="btn btn-outline-primary" href="/Login">Login</a>
+    <a class="btn btn-primary" href="/Signup">Signup</a>
+    
+</div>
+
+<section class="container mt-5">
+    <div class="row">
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="https://images.unsplash.com/photo-1517336714731-489689fd1ca8?auto=format&fit=crop&w=400&q=80" class="card-img-top" alt="Latest Gadgets">
+                <div class="card-body">
+                    <h5 class="card-title">Latest Gadgets</h5>
+                    <p class="card-text">Check out the newest arrivals in tech and electronics.</p>
+                    <a href="/Products" class="btn btn-outline-primary btn-sm">View Gadgets</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="https://images.unsplash.com/photo-1465101046530-73398c7f28ca?auto=format&fit=crop&w=400&q=80" class="card-img-top" alt="Reviews">
+                <div class="card-body">
+                    <h5 class="card-title">Expert Reviews</h5>
+                    <p class="card-text">Read in-depth reviews from our tech experts.</p>
+                    <a href="/Reviews" class="btn btn-outline-primary btn-sm">Read Reviews</a>
+                </div>
+            </div>
+        </div>
+        <div class="col-md-4 mb-4">
+            <div class="card h-100 shadow-sm">
+                <img src="https://images.unsplash.com/photo-1519389950473-47ba0277781c?auto=format&fit=crop&w=400&q=80" class="card-img-top" alt="Tech News">
+                <div class="card-body">
+                    <h5 class="card-title">Tech News</h5>
+                    <p class="card-text">Stay updated with the latest trends and news in technology.</p>
+                    <a href="/News" class="btn btn-outline-primary btn-sm">Read News</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

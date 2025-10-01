@@ -1,0 +1,49 @@
+﻿@page
+@model TheGadgetHub_Web.Pages.ProductsModel
+@{
+    ViewData["Title"] = "Home Product Page";
+}
+
+<div class="text-center mt-5">
+    <h1>Welcome to The Gadget Hub!</h1>
+    <p class="lead">Discover the latest gadgets, reviews, and tech news.</p>
+</div>
+
+<h1>Products</h1>
+<table class="table table-striped table-bordered">
+    <thead>
+        <tr>
+            <th>Id</th>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Order</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var product in Model.Products)
+        {
+            <tr>
+                <td>@product.Id</td>
+                <td>@product.Name</td>
+                <td>@product.Description</td>
+                <td>
+                    <form method="post" asp-page-handler="Order">
+                        <input type="hidden" name="productId" value="@product.Id" />
+                        <button type="submit" class="btn btn-primary">Order</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+@section Scripts {
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            var success = '@TempData["success"]';
+            var fail = '@TempData["fail"]';
+            if (success) alert(success);
+            if (fail) alert(fail);
+        });
+    </script>
+}

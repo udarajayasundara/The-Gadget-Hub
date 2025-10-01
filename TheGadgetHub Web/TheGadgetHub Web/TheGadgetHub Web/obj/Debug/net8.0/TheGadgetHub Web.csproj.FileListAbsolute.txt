@@ -1,0 +1,33 @@
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\appsettings.Development.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\appsettings.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\TheGadgetHub Web.staticwebassets.runtime.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\TheGadgetHub Web.staticwebassets.endpoints.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\TheGadgetHub Web.exe
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\TheGadgetHub Web.deps.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\TheGadgetHub Web.runtimeconfig.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\TheGadgetHub Web.dll
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\bin\Debug\net8.0\TheGadgetHub Web.pdb
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.AssemblyInfoInputs.cache
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.AssemblyInfo.cs
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.csproj.CoreCompileInputs.cache
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.MvcApplicationPartsAssemblyInfo.cache
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.RazorAssemblyInfo.cache
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.RazorAssemblyInfo.cs
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\scopedcss\bundle\TheGadgetHub Web.styles.css
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\scopedcss\projectbundle\TheGadgetHub Web.bundle.scp.css
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.dll
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\refint\TheGadgetHub Web.dll
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.pdb
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\TheGadgetHub Web.genruntimeconfig.cache
+D:\The Gadget Hub\TheGadgetHub Web\TheGadgetHub Web\TheGadgetHub Web\obj\Debug\net8.0\ref\TheGadgetHub Web.dll

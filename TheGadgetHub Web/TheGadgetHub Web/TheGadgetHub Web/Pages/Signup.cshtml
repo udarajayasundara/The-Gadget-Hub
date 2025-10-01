@@ -1,0 +1,42 @@
+﻿@page
+@model TheGadgetHub_Web.Pages.SignupModel
+@{
+    ViewData["Title"] = "Sign Up";
+}
+<span>@TempData["success"]</span>
+<span>@TempData["fail"]</span>
+<h2>Sign Up</h2>
+
+<form method="post">
+    <div class="form-group">
+        <label>Name</label>
+        <input asp-for="Signup.Name" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Email</label>
+        <input asp-for="Signup.Email" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label>Password</label>
+        <input asp-for="Signup.HashedPassword" type="password" class="form-control" />
+    </div>
+    <div class="mt-4">
+        <button type="submit" class="btn btn-primary" name="btnSignup" value="Signup">Sign Up</button>
+    </div>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+    <script>
+        window.addEventListener('DOMContentLoaded', function () {
+            var success = '@TempData["success"]';
+            if (success && success.length > 0) {
+                alert(success);
+            }
+            var fail = '@TempData["fail"]';
+            if (fail && fail.length > 0) {
+                alert(fail);
+            }
+        });
+    </script>
+}
